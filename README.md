@@ -1,5 +1,15 @@
 # Singapore-Maritime-Dataset-Plus
 
+### Notice
+
+## A paper on SMD-PLUS was submitted to the Journal of Marine Science and Engineering.
+
+
+
+Original SMD Download in below url
+
+https://sites.google.com/site/dilipprasad/home/singapore-maritime-dataset
+
 How to Use?
 
 TBD
