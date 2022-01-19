@@ -2,7 +2,7 @@
 
 ### Notice
 
-## A paper on SMD-PLUS was submitted to the Journal of Marine Science and Engineering.
+#### A paper on SMD-PLUS was submitted to the Journal of Marine Science and Engineering.
 
 
 
