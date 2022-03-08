@@ -1,6 +1,6 @@
 # Singapore-Maritime-Dataset-Plus(SMD-Plus)
 
-### Notice
+### * Notice
 
 #### A paper on SMD-PLUS was submitted to the Journal of Marine Science and Engineering.
 ### Paper accepted 6/March/2022
