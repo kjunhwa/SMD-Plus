@@ -11,11 +11,10 @@ Original SMD Download in below url
 
 https://sites.google.com/site/dilipprasad/home/singapore-maritime-dataset
 
-
-Link to Download in below url
-
 We provide video and ObjectGT for VIS_Onshore and VIS_Onboard.
 ObjectGT is identical to the .mat file format provided by the original SMD.
+
+Link to Download in below url
 
 https://drive.google.com/file/d/1yokFvx_cJu-Fl5ti1wgF1WPHao_2kcKE/view?usp=sharing
 
